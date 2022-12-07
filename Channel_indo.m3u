@@ -1,62 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",AHSAN TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",AKHYAR TV
-http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",ANTV
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",BALI TV
-http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",BBS TV
-http://ss.bbstv.co.id:1935/bbstv/live1/chunklist_w1797668003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",CNN indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",INDOSIAR
-http://210.210.155.35/session/62c3f4aa-7aec-11ea-b162-c81f66f89318/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=d0cu4j7cnm&tkn=BEMV9570E7UC93I64J3E6KFTM2B2NMJK&chname=IndosiarC&chname=Indosiar
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",INEWS TV
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",JTV
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",KOMPAS TV
-#EXTVLCOPT:network-caching=1000
-http://rr2.dens.tv/s/s104/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",METRO TV
-http://188.40.76.108:25461/mytv01/uSIRzmks51/142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",MNC TV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",RODJATV
-http://rr2.dens.tv/s/s14/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",SCTV
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",TRANS TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="TV_INDONESIAN", INDOSIAR
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="TV_INDONESIAN", INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="TV_INDONESIAN", SCTV
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K6Q2z7f/sctvlogo.png" group-title="TV_INDONESIAN", SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1621512012~acl=/hls-b/ingest_204_*/*~hmac=7348f0174436064de201b3d56792d59e0cccce935bf89a4d80bd074f41ed8367/hls-b/ingest_204_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5nj7gFv/mnctvlogo.png" group-title="TV_INDONESIAN", MNCTV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZKTz4y/rctilogo.png" group-title="TV_INDONESIAN", RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="TV_INDONESIAN", GTV
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vqO6m_0QvUDwp34CYJQwSc-ZgRI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="TV_INDONESIAN", RTV
+http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="TV_INDONESIAN", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",TVONE
-http://chostv.mobie.in/files/iptv/tvone.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",Net TV
-http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",Animax
-http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",K+
-http://rr.dens.tv/h/h08/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",EGG channel
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",NatGeo wild channel
-http://185.71.64.167:80/307245103371/307245103371/80041?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",cartoon network
-http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",national geogrphic indo
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="indonesia",national geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="TV_INDONESIAN", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
