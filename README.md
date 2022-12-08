@@ -47,7 +47,7 @@ Same thing, but split up into separate files:
     <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-    <tr><td>tv indonesiaaaa</td><td align="right">13</td><td nowrap><code>https://github.com/muhammadharrisfadilah/luzitv/blob/main/Channel_indo.m3u</code></td></tr>
+    <tr><td>tv indonesia</td><td align="right">13</td><td nowrap><code>https://github.com/muhammadharrisfadilah/luzitv/blob/main/Channel_indo.m3u</code></td></tr>
     <tr><td>Animation</td><td align="right">32</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
     <tr><td>Business</td><td align="right">43</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
     <tr><td>Classic</td><td align="right">46</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>
